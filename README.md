@@ -46,7 +46,6 @@ start with the skeleton of the design thinking in mobile first, then i just inse
 
 i learn about so many rules i forget i have to follow while i was doing this project, i made so many mistake with the card skeleton and sized of the card for made then responsive
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 ### Continued development
 
