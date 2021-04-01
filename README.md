@@ -28,8 +28,8 @@ im just practice some css and html for improve my skills
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [CardList Repo](https://github.com/OscarRavelo/CardStyle)
+- Live Site URL: [CardList live Site](https://oscarravelo.github.io/CardStyle/)
 
 ## My process
 
